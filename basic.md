@@ -31,7 +31,6 @@ section .rdata
   import_Address_table -> important
   
     this has all the Windows API calls that the exe is making
-
     https://malapi.io/ -> has the functions that are commonly used in malware -> functions in the import table which are here are worth scrutiny
 
 packing
